@@ -86,7 +86,7 @@ We may update this Privacy Policy periodically. Material changes will be communi
 ## 12. Contact Information
 
 For questions, concerns, or requests regarding your privacy:
-- **Email:** privacy@yodda.app
+- **Email:** peterzikangwu@gmail.com
 - **App:** Use the in-app feedback feature
 
 ## 13. Reporting Concerns
